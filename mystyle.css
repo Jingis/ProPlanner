@@ -1,0 +1,16 @@
+div {
+	background-color: white;
+}
+body {
+	background-image: url(resource/sky.jpg);
+	background-size: 1400px 800px;
+	background-repeat: no-repeat; 
+}
+
+
+li #cat-1 {
+   border-top-color: #06f;
+   background-color: #fafaff; }
+#cat-1:hover {
+   border-top-color: #03f;
+   background-color: #bdf; }
