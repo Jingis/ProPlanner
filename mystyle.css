@@ -8,9 +8,33 @@ body {
 }
 
 
-li #cat-1 {
-   border-top-color: #06f;
-   background-color: #fafaff; }
+div #cat-1 {
+   background-color: #fafaf0; 
+}
 #cat-1:hover {
-   border-top-color: #03f;
-   background-color: #bdf; }
+   background-color: #bdf; 
+}
+div #cat-2 {
+	background-color: ##fafaff; 	
+}
+#cat-2:hover {
+	background-color: #bdf;
+}
+div #cat-3 {
+   background-color: #fafaff; 
+}
+#cat-3:hover {
+   background-color: #bdf; 
+}
+div #cat-4 {
+	background-color: ##fafaff; 	
+}
+#cat-4:hover {
+	background-color: #bdf;
+}
+div #cat-5 {
+	background-color: ##fafaff; 	
+}
+#cat-5:hover {
+	background-color: #bdf;
+}
